@@ -76,11 +76,8 @@ pip install -r requirements.txt
 ---
 
 ## Example
-### Input
-![Noisy Image](example_noisy_image.png)
+![image](https://github.com/user-attachments/assets/d0d32a0a-25a9-4a59-8915-abef489efaf5)
 
-### Output
-![Denoised Image](example_denoised_image.png)
 
 ---
 
